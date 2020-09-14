@@ -29,4 +29,4 @@ Repositório de materiais
 
         [Regressão Linear](https://en.wikipedia.org/wiki/Linear_regression#:~:text=In%20statistics%2C%20linear%20regression%20is,is%20called%20simple%20linear%20regression.)
 
-        [Redes Neurais]()
+        [Redes Neurais](https://colab.research.google.com/drive/1b3QpTlocYfJfCGb4p4Mfk5netTVwwqvX?usp=sharing)
