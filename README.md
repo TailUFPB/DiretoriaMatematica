@@ -27,6 +27,6 @@ Repositório de materiais
             
             O repositorio acima contem as respostas do capitulo dois do livro do telmo
 
-        [Regressão Linear](https://en.wikipedia.org/wiki/Linear_regression#:~:text=In%20statistics%2C%20linear%20regression%20is,is%20called%20simple%20linear%20regression.)
+        [Regressão Linear](https://drive.google.com/file/d/1DE-QcDbChQLmVgL-IqUcn-hNikA-w8vO/view?usp=sharing)
 
         [Redes Neurais](https://colab.research.google.com/drive/1b3QpTlocYfJfCGb4p4Mfk5netTVwwqvX?usp=sharing)
