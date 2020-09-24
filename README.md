@@ -24,7 +24,7 @@ Repositório de materiais
         * Ordenando Arrays
         * Exercícios
 
-    * [Resolvendo problemas de algebra com numpy](https://colab.research.google.com/drive/1QRiREC4rCM3KZ1-kLf6MCVWj9qsOELax#scrollTo=HEZnN5lZZGln)
+    * [Resolvendo problemas de álgebra com numpy](https://colab.research.google.com/drive/1QRiREC4rCM3KZ1-kLf6MCVWj9qsOELax#scrollTo=HEZnN5lZZGln)
         
         * Soma e multiplicação de matrizes
         * Matriz inversa e matriz transposta
