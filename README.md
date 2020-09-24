@@ -12,11 +12,18 @@ Repositório de materiais
     [Introdução a Algebra Linear](http://www.mat.ufpb.br/jorge/arquivos/disciplinas/listas/LivroIAL)
 
 * **Notebooks**
-    * Numpy para iniciantes:
+    * [Introdução ao NumPy:](https://colab.research.google.com/drive/1LehXQ9v2TM3CeL1DpnntAp_N8AsHmVSw#scrollTo=A5FLhkU7MNMt)
         
-        [Conteudo 1]()
+        * Introdução aos Arrays
+        * Propriedades        
+        * Criando Arrays        
+        * Indexação e Iteração em um Array        
+        * União de arrays        
+        * Operações com Arrays
+        * Método Random
+        * Ordenando Arrays
+        * Exercícios
 
-        [Conteudo n]()
 
 
     *  Aplicações:
