@@ -18,10 +18,10 @@ Repositório de materiais
         * Propriedades        
         * Criando Arrays        
         * Indexação e Iteração em um Array        
-        * União de arrays        
-        * Operações com Arrays
-        * Método Random
+        * União de arrays   
         * Ordenando Arrays
+        * Método Random
+        * Operações com Arrays
         * Exercícios
 
     * [Resolvendo problemas de álgebra com numpy](https://colab.research.google.com/drive/1QRiREC4rCM3KZ1-kLf6MCVWj9qsOELax#scrollTo=HEZnN5lZZGln)
