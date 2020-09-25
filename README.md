@@ -3,13 +3,13 @@ Repositório de materiais
 
 * **Materiais**
 
-    [Introdução básica a Algebra Linear]()
+    [Introdução básica a Álgebra Linear]()
 
 * **Livros**
 
     [Python para estatísticos](tmfilho.github.io/pyestbook)
 
-    [Introdução a Algebra Linear](http://www.mat.ufpb.br/jorge/arquivos/disciplinas/listas/LivroIAL)
+    [Introdução a Álgebra Linear](http://www.mat.ufpb.br/jorge/arquivos/disciplinas/listas/LivroIAL)
 
 * **Notebooks**
     * [Introdução ao NumPy:](https://colab.research.google.com/drive/1LehXQ9v2TM3CeL1DpnntAp_N8AsHmVSw#scrollTo=A5FLhkU7MNMt)
