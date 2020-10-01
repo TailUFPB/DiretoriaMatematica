@@ -3,15 +3,15 @@ Repositório de materiais
 
 * **Materiais**
 
-    [Ebook: Introdução à Matemática para Inteligência Artificial INTRODUÇÃO À MATEMÁTICA PARA INTELIGÊNCIA ARTIFICIAL]()
-
-    [Notebook: Regressão Linear com Python]()
+    * [Ebook: Introdução à Matemática para Inteligência Artificial](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/ebook/TAIL_MAT.pdf)
+        * [Slide (1): Matrizes](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Regress%C3%A3o_linear_com_Python.ipynb)
+    * [Notebook: Regressão Linear com Python](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Regress%C3%A3o_linear_com_Python.ipynb)
 
 * **Livros**
 
-    [Python para estatísticos](tmfilho.github.io/pyestbook)
+    * [Python para estatísticos](tmfilho.github.io/pyestbook)
 
-    [Introdução a Álgebra Linear](http://www.mat.ufpb.br/jorge/arquivos/disciplinas/listas/LivroIAL)
+    * [Introdução a Álgebra Linear](http://www.mat.ufpb.br/jorge/arquivos/disciplinas/listas/LivroIAL)
 
 * **Notebooks**
     * [Introdução ao NumPy:](https://colab.research.google.com/drive/1LehXQ9v2TM3CeL1DpnntAp_N8AsHmVSw#scrollTo=A5FLhkU7MNMt)
