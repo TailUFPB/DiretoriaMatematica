@@ -3,7 +3,9 @@ Repositório de materiais
 
 * **Materiais**
 
-    [Introdução básica a Álgebra Linear]()
+    [Ebook: Introdução à Matemática para Inteligência Artificial INTRODUÇÃO À MATEMÁTICA PARA INTELIGÊNCIA ARTIFICIAL]()
+
+    [Notebook: Regressão Linear com Python]()
 
 * **Livros**
 
