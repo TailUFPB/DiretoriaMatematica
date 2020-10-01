@@ -1,4 +1,4 @@
-# DiretoriaMatematica
+# Diretoria de Matematica
 Repositório de materiais
 
 * **Materiais**
