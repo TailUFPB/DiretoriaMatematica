@@ -34,7 +34,7 @@ Repositório de materiais
         * Resolução de sistemas usando matrizes
         * Exercícios
 
- *  **Aplicações**
+ * **Aplicações**
 
     * [Utilizar como base exemplos ja feitos pelo telmo no livro, utilizando o numpy](https://github.com/Manuelfjr/PythonParaEstatisticos/blob/master/ExeChapter_2.ipynb)
 
