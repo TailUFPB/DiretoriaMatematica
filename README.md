@@ -36,9 +36,9 @@ Repositório de materiais
 
  *  **Aplicações**
 
-     [Utilizar como base exemplos ja feitos pelo telmo no livro, utilizando o numpy](https://github.com/Manuelfjr/PythonParaEstatisticos/blob/master/ExeChapter_2.ipynb)
+    * [Utilizar como base exemplos ja feitos pelo telmo no livro, utilizando o numpy](https://github.com/Manuelfjr/PythonParaEstatisticos/blob/master/ExeChapter_2.ipynb)
 
-         O repositorio acima contem as respostas do capitulo dois do livro do telmo
+        * O repositorio acima contem as respostas do capitulo dois do livro do telmo
 
     * [Regressão Linear](https://colab.research.google.com/drive/1DE-QcDbChQLmVgL-IqUcn-hNikA-w8vO)
 
