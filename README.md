@@ -9,7 +9,7 @@ Repositório de materiais
 
 * **Livros**
 
-    * [Python para estatísticos](tmfilho.github.io/pyestbook)
+    * [Python para estatísticos](https://tmfilho.github.io/pyestbook/intro.html)
 
     * [Introdução a Álgebra Linear](http://www.mat.ufpb.br/jorge/arquivos/disciplinas/listas/LivroIAL)
 
