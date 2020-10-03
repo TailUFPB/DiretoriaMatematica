@@ -34,14 +34,14 @@ Repositório de materiais
         * Resolução de sistemas usando matrizes
         * Exercícios
 
-    *  Aplicações:
+ *  **Aplicações**
 
-        [Utilizar como base exemplos ja feitos pelo telmo no livro, utilizando o numpy](https://github.com/Manuelfjr/PythonParaEstatisticos/blob/master/ExeChapter_2.ipynb)
-            
-            O repositorio acima contem as respostas do capitulo dois do livro do telmo
+     [Utilizar como base exemplos ja feitos pelo telmo no livro, utilizando o numpy](https://github.com/Manuelfjr/PythonParaEstatisticos/blob/master/ExeChapter_2.ipynb)
 
-        [Regressão Linear](https://colab.research.google.com/drive/1DE-QcDbChQLmVgL-IqUcn-hNikA-w8vO)
-          
+         O repositorio acima contem as respostas do capitulo dois do livro do telmo
+
+    * [Regressão Linear](https://colab.research.google.com/drive/1DE-QcDbChQLmVgL-IqUcn-hNikA-w8vO)
+
         * Explicação do problema e apresentação dos dados
         * Por que utilizar regressão linear
         * Formato da regressão linear e seu funcionamento
@@ -50,4 +50,4 @@ Repositório de materiais
         * Métricas de avaliação do modelo
         * Amostragem dos dados da predição
 
-        [Redes Neurais](https://colab.research.google.com/drive/1b3QpTlocYfJfCGb4p4Mfk5netTVwwqvX?usp=sharing)
+    * [Redes Neurais](https://colab.research.google.com/drive/1b3QpTlocYfJfCGb4p4Mfk5netTVwwqvX?usp=sharing)
