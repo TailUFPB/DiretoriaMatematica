@@ -33,17 +33,17 @@ Repositório de materiais
         * Determinante da matriz
         * Resolução de sistemas usando matrizes
         * Exercícios
+        
+    * [Resolvendo problemas de computação matemática e ciêntífica com Numpy](https://github.com/Manuelfjr/PythonParaEstatisticos/blob/master/ExeChapter_2.ipynb)
+
+        * Repositório contendo as respostas do capítulo 3 seção 5 do livro Python para Estatísticos (Telmo De Menezes)
 
  * **Aplicações**
-
-    * [Utilizar como base exemplos ja feitos pelo telmo no livro, utilizando o numpy](https://github.com/Manuelfjr/PythonParaEstatisticos/blob/master/ExeChapter_2.ipynb)
-
-        * Repositório contendo as respostas do capítulo dois do livro Python para Estatísticos (Telmo De Menezes)
 
     * [Regressão Linear](https://colab.research.google.com/drive/1DE-QcDbChQLmVgL-IqUcn-hNikA-w8vO)
 
         * Explicação do problema e apresentação dos dados
-        * Por que utilizar regressão linear
+        * Por que utilizar regressão linear?
         * Formato da regressão linear e seu funcionamento
         * Criação do modelo e treinamento
         * Elementos da regressão linear
@@ -51,3 +51,11 @@ Repositório de materiais
         * Amostragem dos dados da predição
 
     * [Redes Neurais](https://colab.research.google.com/drive/1b3QpTlocYfJfCGb4p4Mfk5netTVwwqvX?usp=sharing)
+    
+        * Explicação do problema e apresentação dos dados
+        * Expplicação da arquitetura de rede e sua representação matricial
+        * Funções de ativação
+        * Operações para fluxo de rede
+        * Backpropagation
+        * Criação do modelo e treinamento
+        * Predição
