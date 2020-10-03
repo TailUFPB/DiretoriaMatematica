@@ -41,5 +41,13 @@ Repositório de materiais
             O repositorio acima contem as respostas do capitulo dois do livro do telmo
 
         [Regressão Linear](https://colab.research.google.com/drive/1DE-QcDbChQLmVgL-IqUcn-hNikA-w8vO)
+          
+           * Explicação do problema e apresentação dos dados
+           * Por que utilizar regressão linear
+           * Formato da regressão linear e seu funcionamento
+           * Criação do modelo e treinamento
+           * Elementos da regressão linear
+           * Métricas de avaliação do modelo
+           * Amostragem dos dados da predição
 
         [Redes Neurais](https://colab.research.google.com/drive/1b3QpTlocYfJfCGb4p4Mfk5netTVwwqvX?usp=sharing)
