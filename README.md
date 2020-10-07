@@ -5,6 +5,8 @@ Repositório de materiais
 
     * [Ebook: Introdução à Matemática para Inteligência Artificial](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/ebook/TAIL_MAT.pdf)
         * [Slide (1): Matrizes](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Regress%C3%A3o_linear_com_Python.ipynb)
+    * [Notebook: Introdução ao Numpy](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/NumPy.ipynb)
+    * [Notebook: Utilizando Numpy na resolução de problemas de álgebra linear](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/NumpyProblemasAlgebra.ipynb)
     * [Notebook: Regressão Linear com Python](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Regress%C3%A3o_linear_com_Python.ipynb)
 
 * **Livros**
