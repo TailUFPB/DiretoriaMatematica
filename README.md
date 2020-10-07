@@ -5,9 +5,9 @@ Repositório de materiais
 
     * [Ebook: Introdução à Matemática para Inteligência Artificial](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/ebook/TAIL_MAT.pdf)
         * [Slide (1): Matrizes](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Regress%C3%A3o_linear_com_Python.ipynb)
-    * [Notebook: Introdução ao Numpy](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/NumPy.ipynb)
-    * [Notebook: Utilizando Numpy na resolução de problemas de álgebra linear](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/NumpyProblemasAlgebra.ipynb)
-    * [Notebook: Regressão Linear com Python](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Regress%C3%A3o_linear_com_Python.ipynb)
+    * [Notebook: Introdução ao Numpy](colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/NumPy.ipynb)
+    * [Notebook: Utilizando Numpy na resolução de problemas de álgebra linear](colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/NumpyProblemasAlgebra.ipynb)
+    * [Notebook: Regressão Linear com Python](colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Regressão_linear_com_Python.ipynb)
 
 * **Livros**
 
@@ -16,7 +16,7 @@ Repositório de materiais
     * [Introdução a Álgebra Linear](http://www.mat.ufpb.br/jorge/arquivos/disciplinas/listas/LivroIAL)
 
 * **Notebooks**
-    * [Introdução ao NumPy:](https://colab.research.google.com/drive/1LehXQ9v2TM3CeL1DpnntAp_N8AsHmVSw#scrollTo=A5FLhkU7MNMt)
+    * [Introdução ao NumPy:](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/NumPy.ipynb)
         
         * Introdução aos Arrays
         * Propriedades        
@@ -28,7 +28,7 @@ Repositório de materiais
         * Operações com Arrays
         * Exercícios
 
-    * [Resolvendo problemas de álgebra com numpy](https://colab.research.google.com/drive/1QRiREC4rCM3KZ1-kLf6MCVWj9qsOELax#scrollTo=HEZnN5lZZGln)
+    * [Utilizando Numpy na resolução de problemas de álgebra linear](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/NumpyProblemasAlgebra.ipynb)
         
         * Soma e multiplicação de matrizes
         * Matriz inversa e matriz transposta
@@ -42,7 +42,7 @@ Repositório de materiais
 
  * **Aplicações**
 
-    * [Regressão Linear](https://colab.research.google.com/drive/1DE-QcDbChQLmVgL-IqUcn-hNikA-w8vO)
+    * [Regressão Linear](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Regress%C3%A3o_linear_com_Python.ipynb)
 
         * Explicação do problema e apresentação dos dados
         * Por que utilizar regressão linear?
@@ -51,13 +51,3 @@ Repositório de materiais
         * Elementos da regressão linear
         * Métricas de avaliação do modelo
         * Amostragem dos dados da predição
-
-    * [Redes Neurais](https://colab.research.google.com/drive/1b3QpTlocYfJfCGb4p4Mfk5netTVwwqvX?usp=sharing)
-    
-        * Explicação do problema e apresentação dos dados
-        * Expplicação da arquitetura de rede e sua representação matricial
-        * Funções de ativação
-        * Operações para fluxo de rede
-        * Backpropagation
-        * Criação do modelo e treinamento
-        * Predição
