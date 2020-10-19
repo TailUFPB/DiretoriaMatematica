@@ -8,6 +8,9 @@ Repositório de materiais
     * [Notebook: Introdução ao Numpy](https://colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/NumPy.ipynb)
     * [Notebook: Utilizando Numpy na resolução de problemas de álgebra linear](https://colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/NumpyProblemasAlgebra.ipynb)
     * [Notebook: Regressão Linear com Python](https://colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Regressão_linear_com_Python.ipynb)
+    * [Notebook: Introdução ao Matplotlib](https://colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Introdução_ao_Matplotlib.ipynb)
+    * [Notebook: Utilizando Python na resolução de problemas de Geometria Analítica](https://colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/PythonGeoAnalitica.ipynb)
+    * [Notebook: Métodos de avaliação de modelos preditivos](https://colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Métodos_de_avaliação.ipynb)
 
 * **Livros**
 
@@ -39,6 +42,17 @@ Repositório de materiais
     * [Resolvendo problemas de computação matemática e ciêntífica com Numpy](https://github.com/Manuelfjr/PythonParaEstatisticos/blob/master/ExeChapter_2.ipynb)
 
         * Repositório contendo as respostas do capítulo 3 seção 5 do livro Python para Estatísticos (Telmo De Menezes)
+        
+    * [Introdução ao Matplotlib]()
+         * Pyplot
+         
+    * [Utilizando Python na resolução de problemas de Geometria Analítica](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/PythonGeoAnalitica.ipynb)
+    
+         * Espaços e dimensões no Python
+         * Calculando distâncias
+         * Criando uma reta
+         * Criando um plano determinado por 3 pontos
+         * Exercícios
 
  * **Aplicações**
 
@@ -51,3 +65,11 @@ Repositório de materiais
         * Elementos da regressão linear
         * Métricas de avaliação do modelo
         * Amostragem dos dados da predição
+        
+    * [Métodos de avaliação de modelos preditivos](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/M%C3%A9todos_de_avalia%C3%A7%C3%A3o.ipynb)
+    
+        * Matriz de confusão
+        * Métodos de avaliação baseados na matriz de confusão
+        * Tipos de matrizes de confusão
+        * Curva ROC
+        * Medida de Avaliação de modelos
