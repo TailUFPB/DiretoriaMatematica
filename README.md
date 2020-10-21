@@ -47,8 +47,11 @@ Repositório de materiais
 
         * Repositório contendo as respostas do capítulo 3 seção 5 do livro Python para Estatísticos (Telmo De Menezes)
         
-    * [Introdução ao Matplotlib]()
+    * [Introdução ao Matplotlib](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Introdu%C3%A7%C3%A3o_ao_Matplotlib.ipynb)
          * Pyplot
+         * Interface orientada a objetos
+         * Visualização em 3D
+         * Outras bibliotecas
          
     * [Utilizando Python na resolução de problemas de Geometria Analítica](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/PythonGeoAnalitica.ipynb)
     
