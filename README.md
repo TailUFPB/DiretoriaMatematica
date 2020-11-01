@@ -101,3 +101,15 @@ Repositório de materiais
         * Medida de Avaliação de modelos
     
     * [Notebook: Funções de Ativação](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/FuncoesDeAtivacao.ipynb)
+    
+        * Introdução
+        * Importando as bibliotecas necessárias
+        * Função Sigmoid
+        * Função Softmax
+        * Função TanH
+        * Função ReLU
+        * Função Leaky ReLU
+        * Singularidade
+        * Exemplo prático
+        
+        
