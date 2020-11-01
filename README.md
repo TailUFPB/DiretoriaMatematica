@@ -65,7 +65,20 @@ Repositório de materiais
          * Exercícios
 
     * [Introdução à Computação Simbólica](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Introdução_à_Computação_Simbólica.ipynb/)
-
+         *  Importância e Definição da Computação Simbólica
+         *  Biblioteca SymPy e Primeiros Passos
+         *  Variáveis Simbólicas
+         *  Criando Equações
+         *  Alfabetos Simbólicos
+         *  Substituição de Variáveis
+         *  Avaliação de Expressões Matemáticas
+         *  Funções e Cálculo de Raízes
+         *  Funções Trigonométricas
+         *  Polinômios
+         *  Logaritmos
+         *  Fatorial
+         *  Matrizes   
+         *  Exercícios Resolvidos e Propostos
 
  * **Aplicações**
 
