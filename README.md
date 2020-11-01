@@ -4,9 +4,9 @@ Repositório de materiais
 * **Materiais**
 
     * [Ebook: Introdução à Matemática para Inteligência Artificial](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/ebook/TAIL_MAT.pdf)
-        * [Slide (1): Matrizes](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Regress%C3%A3o_linear_com_Python.ipynb)
+        * [Slide (1): Matrizes](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/slides/TAIL___EXERCICIOS.pdf)
         * [Slide (2): Geometria Analítica](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/slides/TAIL___EXERCICIOS_2.pdf)
-        * [Slide (3): Funções]()
+        * [Slide (3): Funções](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/slides/TAIL___EXERCICIOS_3.pdf)
 
     * [Ebook: Conteúdos Extras](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/ebook/Conteudos_Extras.pdf)
 
