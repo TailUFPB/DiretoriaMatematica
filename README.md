@@ -8,7 +8,7 @@ Repositório de materiais
         * [Slide (2): Geometria Analítica](https://github.com/TailUFPB/DiretoriaMatematica/raw/master/materiais/slides/TAIL___EXERCICIOS_2.pdf)
         * [Slide (3): Funções](https://github.com/TailUFPB/DiretoriaMatematica/raw/master/materiais/slides/TAIL___EXERCICIOS_3.pdf)
 
-    * [Ebook: Conteúdos Extras](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/ebook/Conteudos_Extras.pdf)
+    * [Ebook: Conteúdos Extras](https://github.com/TailUFPB/DiretoriaMatematica/raw/master/materiais/ebook/Conteudos_Extras.pdf)
 
     * [Notebook: Introdução ao Numpy](https://colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/NumPy.ipynb)
     * [Notebook: Utilizando Numpy na resolução de problemas de álgebra linear](https://colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/NumpyProblemasAlgebra.ipynb)
