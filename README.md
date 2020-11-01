@@ -6,6 +6,7 @@ Repositório de materiais
     * [Ebook: Introdução à Matemática para Inteligência Artificial](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/ebook/TAIL_MAT.pdf)
         * [Slide (1): Matrizes](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Regress%C3%A3o_linear_com_Python.ipynb)
         * [Slide (2): Geometria Analítica](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/slides/TAIL___EXERCICIOS_2.pdf)
+        * [Slide (3): Funções]()
 
     * [Ebook: Conteúdos Extras](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/ebook/Conteudos_Extras.pdf)
 
@@ -15,6 +16,8 @@ Repositório de materiais
     * [Notebook: Introdução ao Matplotlib](https://colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Introdução_ao_Matplotlib.ipynb)
     * [Notebook: Utilizando Python na resolução de problemas de Geometria Analítica](https://colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/PythonGeoAnalitica.ipynb)
     * [Notebook: Métodos de avaliação de modelos preditivos](https://colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Métodos_de_avaliação.ipynb)
+    * [Notebook: Introdução à Computação Simbólica](https://colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Introdução_à_Computação_Simbólica.ipynb)
+    * [Notebook: Funções de Ativação](https://colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/FuncoesDeAtivacao.ipynb)
 
 * **Livros**
 
@@ -61,6 +64,9 @@ Repositório de materiais
          * Criando um plano determinado por 3 pontos
          * Exercícios
 
+    * [Introdução à Computação Simbólica](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Introdução_à_Computação_Simbólica.ipynb/)
+
+
  * **Aplicações**
 
     * [Regressão Linear](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Regress%C3%A3o_linear_com_Python.ipynb)
@@ -80,3 +86,5 @@ Repositório de materiais
         * Tipos de matrizes de confusão
         * Curva ROC
         * Medida de Avaliação de modelos
+    
+    * [Notebook: Funções de Ativação](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/FuncoesDeAtivacao.ipynb)
