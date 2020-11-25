@@ -16,8 +16,9 @@ Repositório de materiais
     * [Notebook: Introdução ao Matplotlib](https://colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Introdução_ao_Matplotlib.ipynb)
     * [Notebook: Utilizando Python na resolução de problemas de Geometria Analítica](https://colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/PythonGeoAnalitica.ipynb)
     * [Notebook: Métodos de avaliação de modelos preditivos](https://colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Métodos_de_avaliação.ipynb)
-    * [Notebook: Introdução à Computação Simbólica](https://colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Introdução_à_Computação_Simbólica.ipynb)
+    * [Notebook: Introdução à Computação Simbólica (simpy)](https://colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Introdução_à_Computação_Simbólica.ipynb)
     * [Notebook: Funções de Ativação](https://colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/FuncoesDeAtivacao.ipynb)
+    * [Notebook: Introdução à Computação Matemática (scipy)](https://colab.research.google.com/github/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Computacao_Cientifica.ipynb)
 
 * **Livros**
 
@@ -64,7 +65,7 @@ Repositório de materiais
          * Criando um plano determinado por 3 pontos
          * Exercícios
 
-    * [Introdução à Computação Simbólica](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Introdução_à_Computação_Simbólica.ipynb/)
+    * [Introdução à Computação Simbólica (simpy)](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Introdução_à_Computação_Simbólica.ipynb)
          *  Importância e Definição da Computação Simbólica
          *  Biblioteca SymPy e Primeiros Passos
          *  Variáveis Simbólicas
@@ -79,6 +80,8 @@ Repositório de materiais
          *  Fatorial
          *  Matrizes   
          *  Exercícios Resolvidos e Propostos
+
+    * [Introdução à Computação Matemática (scipy)](https://github.com/TailUFPB/DiretoriaMatematica/blob/master/materiais/notebooks/Computacao_Cientifica.ipynb)
 
  * **Aplicações**
 
